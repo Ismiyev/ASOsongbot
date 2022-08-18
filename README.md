@@ -15,7 +15,7 @@
 - GROUP - Grubunuzun kullanıcı adı
 
 # Deploy
-<a href="https://heroku.com/deploy?template=https://github.com/Zamannismiyev/ASOsongbot">
+<a href="https://heroku.com/deploy?template=https://github.com/Ismiyev/ASOsongbot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
