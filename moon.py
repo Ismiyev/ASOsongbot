@@ -56,7 +56,7 @@ async def start_(client: Client, message: Message):
                     ),
                     InlineKeyboardButton(
                         "💭 Werab Qoxulu ✈️",
-                        url=f"https://t.me/WerabliAnlar"
+                        url=f"https://t.me/ismiyev95"
                     )
                 ],
                 [
@@ -107,7 +107,7 @@ async def cbstart(_, query: CallbackQuery):
                     ),
                     InlineKeyboardButton(
                         "💭 Werab Qoxulu 🍷",
-                        url=f"https://t.me/WerabliAnlar"
+                        url=f"https://t.me/ismiyev95"
                     )
                 ],
                 [
